@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo", "ToDo\ToDo.csproj", "{D9BBDB5A-285B-4EC8-B394-A3658D0CAA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawBoxes", "DrawBoxes\DrawBoxes.csproj", "{78BB532F-3F25-49DD-BDCA-C6E8D956526B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9BBDB5A-285B-4EC8-B394-A3658D0CAA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BBDB5A-285B-4EC8-B394-A3658D0CAA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BBDB5A-285B-4EC8-B394-A3658D0CAA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BBDB5A-285B-4EC8-B394-A3658D0CAA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BB532F-3F25-49DD-BDCA-C6E8D956526B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BB532F-3F25-49DD-BDCA-C6E8D956526B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BB532F-3F25-49DD-BDCA-C6E8D956526B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BB532F-3F25-49DD-BDCA-C6E8D956526B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7502F3BF-686C-4F7B-8576-D60B44511F0E}
+	EndGlobalSection
+EndGlobal
